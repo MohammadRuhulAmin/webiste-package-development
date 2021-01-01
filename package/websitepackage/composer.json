@@ -1,0 +1,14 @@
+{
+    "name": "teambravo/websitepackage",
+    "description": "web site package has crud operation ,  middleware , template mastering , custom facade , dependency ingection and model , migration files!",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TeamBravo\\WebSitepkg\\": "src/"
+        }
+    }
+
+}
